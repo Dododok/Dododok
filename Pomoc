@@ -1,0 +1,14 @@
+/*Trzeba wykonać takie zadanie w Minix:
+
+Do systemu Minix dołączyć wywołanie systemowe zwracające dla bieżącego procesu (parametr 0) lub innego (parametr=pid) :
+
+id procesu
+
+Już 5 godzin nie mogę zrobić
+
+table.c
+forkexit.c
+syslib.c
+com.h - nie  chce pracować z forkexit.c*/
+
+Potrzebuję pomocy
